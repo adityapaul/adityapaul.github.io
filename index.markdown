@@ -12,7 +12,7 @@ I'm currently an undergraduate student studying electrical/computer engineering 
 
 ## Research
 
-Up until now, my research has largely focused on quantum computing and quantum engineering, specifically in atomic systems. At Duke, my work focuses on using computational optimization methods to find best practices for sympathetic cooling of trapped ions. At Princeton, my work took a bit of a hardware turn, where I designed optical modulators to generate large-scale focus arrays for neutral-atom trapping and quantum computation.
+Up until now, my research has largely focused on quantum computing and quantum engineering, specifically in atomic systems. At Duke, my work focuses on using computational optimization methods to find best practices for sympathetic cooling of trapped ions. At Princeton, I designed, built, and characterized optical modulators to generate large-scale focus arrays for neutral-atom trapping and quantum computation.
 
 ## Miscellanea
 
