@@ -12,10 +12,12 @@ I'm currently a PhD student in the EECS department at MIT. Before that, I've con
 
 ### Research
 
-My research has largely focused on quantum computing and quantum engineering, specifically in atomic systems. At Duke, my work focuses on using computational optimization methods to find best practices for sympathetic cooling of trapped ions. At Princeton, I designed, built, and characterized optical modulators to generate large-scale focus arrays for neutral-atom trapping and quantum computation.
+My research has largely focused on quantum computing and quantum engineering, specifically in atomic systems. At Duke, my work focused on using computational optimization methods to find best practices for sympathetic cooling of trapped ions. At Princeton, I designed, built, and characterized optical modulators to generate large-scale focus arrays for neutral-atom trapping and quantum computation.
+
+At the moment, I'm working in the lab of [Kiyoul Yang](https://sites.google.com/g.harvard.edu/y-lab), where I focus on photonic inverse design and quantum photonics. 
 
 ### Miscellanea
 
-Outside of the lab, I love television shows and food. I especially love ranking things as a general practice; I maintain spreadsheets of my favorite TV shows and restaurants and either rank or rate them. My latest watch has been Barry on HBO.
+Outside of the lab, I love television shows and food. I especially love ranking things as a general practice; I maintain spreadsheets of my favorite TV shows and restaurants and either rank or rate them. My latest watch has been Barry on HBO. I'm a huge animal person: I have a 4-year-old beagle named Nico, and live with my partner's 2-year-old ragdoll cat Farah.
 
 This website is a work in progress! I'm using Jekyll's `minima` theme, and heavy inspiration was drawn from [Lukas Lehner's](https://lukaslehner.github.io) website.
