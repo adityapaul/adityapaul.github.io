@@ -18,6 +18,6 @@ At the moment, I'm working in the lab of [Kiyoul Yang](https://sites.google.com/
 
 ### Miscellanea
 
-Outside of the lab, I love television shows and food. I especially love ranking things as a general practice; I maintain spreadsheets of my favorite TV shows and restaurants and either rank or rate them. My latest watch has been Barry on HBO. I'm a huge animal person: I have a 4-year-old beagle named Nico, and live with my partner's 2-year-old ragdoll cat Farah.
+Outside of the lab, I love television shows and food. I especially love ranking things as a general practice; I maintain spreadsheets of my favorite TV shows and restaurants and either rank or rate them. My latest watch has been Barry on HBO. I'm a huge animal person: I have a 4-year-old beagle named Nico, and absolutely love my partner's 2-year-old ragdoll cat Farah.
 
 This website is a work in progress! I'm using Jekyll's `minima` theme, and heavy inspiration was drawn from [Lukas Lehner's](https://lukaslehner.github.io) website.
