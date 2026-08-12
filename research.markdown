@@ -5,6 +5,13 @@ title: Research
 
 # Research
 
+## [Inverse-designed silicon nitride nanophotonics](https://doi.org/10.1038/s41467-026-73390-9)
+### Toby Bi, Shuangyou Zhang, Egemen Bostan, Danxian Liu, *Aditya Paul*, Olga Ohletz, ..., Kiyoul Yang, and Pascal Dell'Haye
+
+**Published in Nature Communications**
+
+Silicon nitride photonics has enabled integration of a variety of components for applications in linear and nonlinear optics, including telecommunications, optical clocks, astrocombs, bio-sensing, and LiDAR. With the advent of inverse design – where desired device performance is specified and closely achieved through iterative, gradient-based optimisation – and the increasing availability of silicon nitride photonics via foundries, it is now feasible to expand the photonic design library beyond the limits of traditional approaches and unlock new functionalities. In this work, we present inverse-designed photonics on a silicon nitride platform and demonstrate both the design capabilities and experimental verification by realising precisely tailored wavelength-division multiplexers, mode-division multiplexers, and high-Q resonators with controllable wavelength range and dispersion. This demonstrates inverse-designed enhanced manipulation of orthogonal bases of light. Furthermore, we use these inverse-designed structures to form optical cavities that hold promise for on-chip nonlinear and quantum optics experiments.
+
 ## [Ion-chain sympathetic cooling and gate dynamics](https://doi.org/10.1103/PhysRevApplied.22.044033)
 ### *Aditya Paul* and Crystal Noel
 
